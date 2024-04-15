@@ -1,2 +1,2 @@
 Semester 4 Micro-Project on Machine Learning : Movie Recommendation System.<br>
-Group - Yadhukrishnan , Nayif Muhammed , Sreenandh Preneesh , Navaneeth Raj.
+Group - Yadhu Krishnan V A , Nayif Muhammed , Sreenandh Preneesh , Navaneeth Raj.
